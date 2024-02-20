@@ -18,3 +18,13 @@ separador (carpetas) por años
   - data.md
   - img.webp
   - artwork.js
+
+### cambiar align="" > style="text-align: center;"
+
+<p align="center"><iframe width="602" height="744" frameborder="0" scrolling="no" style="width:603px; margin:0 auto!important;border: 1px solid #F2F2F3; z-index: 100;" src="https://editor.p5js.org/BloodSugar/full/Y1A4I2yfH"></iframe></p>
+
+>
+
+<p style="text-align: center;"><iframe width="602" height="744" frameborder="0" scrolling="no" style="width:603px; margin:0 auto!important;border: 1px solid #F2F2F3; z-index: 100;" src="https://editor.p5js.org/BloodSugar/full/Y1A4I2yfH"></iframe></p>
+
+
